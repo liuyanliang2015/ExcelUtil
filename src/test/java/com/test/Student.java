@@ -6,7 +6,7 @@ package com.test;
 import com.bert.model.ExcelCell;
 
 /**
- * 模拟实体
+ * 模拟实体Student
  * @author LiuYanliang
  */
 public class Student {
