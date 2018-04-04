@@ -17,7 +17,7 @@ import com.bert.util.ExcelUtil;
  * @author LiuYanliang
  */
 public class TestImportByMap {
-  @SuppressWarnings("rawtypes")
+
   public static void main(String[] args) throws FileNotFoundException {
     File f=new File("D:/test.xls");
     InputStream inputStream= new FileInputStream(f);
